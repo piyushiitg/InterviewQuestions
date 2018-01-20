@@ -1,0 +1,21 @@
+Tree Traversal
+
+1. Preorder
+2. InOrder
+3. PostOrder
+4. DFS
+5. BFS
+
+Tree Property
+1. Height of the Tree
+2. Max Node in the Tree
+3. InOrder Predessor
+4. InOrder Successor
+
+Tree Operations
+1. Top View of the tree
+2. Bottom view of the tree
+3. PreOrder Traversal given find is it valid
+4. Given Tree is Binary Search Tree (Inorder traversal is sorted or not)
+5. Print all paths from root to leaf
+
