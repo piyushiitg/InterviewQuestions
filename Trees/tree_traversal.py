@@ -34,11 +34,31 @@ def inorder(root):
         print root.key
         inorder(root.right)
 
+ksum = 0
+def rev_inorder(root):
+    global ksum
+    if root is None:
+        return
+    rev_inorder(root.right)
+    ksum = root.key + ksum
+    print "-----", root.key, ksum
+    root.key =  ksum
+    rev_inorder(root.left)
+
 root = tree.create_tree()
+
+"""
 print "PreOrder ****"
 preorder(root)
 preorder_non_recursive(root)
+"""
 print "InOrder ****"
 inorder(root)
+"""
 print "PostOrder ****"
 postorder(root)
+"""
+print "Reverse Inorder"
+ksum=0
+rev_inorder(root)
+inorder(root)

@@ -12,10 +12,12 @@ def create_tree():
     root.left.right = Node(5)
     root.right.left = Node(6)
     root.right.right = Node(7)
+    """
     root.left.left.left = Node(8)
     root.left.left.right = Node(9)
     root.left.right.right = Node(10)
     root.left.left.left.right = Node(11)
+    """
     a = """Your Tree is 
                                 1
 
@@ -30,5 +32,6 @@ def create_tree():
     print a 
     return root
 
+    
 if __name__ == "__main__":
     root = create_tree()
