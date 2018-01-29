@@ -25,6 +25,6 @@ def next_greater_number(num):
     return "".join(new_number)
    
 
-num = 45123
+num = 4234567
 print "input ", num
 print "output", next_greater_number(num)

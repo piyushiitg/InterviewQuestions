@@ -1,0 +1,95 @@
+______
+|     |
+|     0    <---- the man
+|    —|—
+|    /\
+_
+
+
+J A M I E     <---------- typed all
+_ _ _ _ _
+
+
+
+
+System Interface:
+---give_problem(api_key, user_id)
+--write_char(api_key, char, problem_id, prev_state )
+Retrun:
+Json
+{
+success: true,
+data:
+{
+state="State1",
+prev_state = prev_state,
+position=2
+char = "A"
+word_matched = True
+message = "You Won"/ "You Lost"
+}
+session_id= <-------- SESSION
+error:""
+}
+
+---------------------------------------------------------
+User Table:
+user 
+email
+location
+highScore
+
+Problem:
+U1: P1, p2, p3
+
+ Server
+Request Per Seconds: 1000000 r/s
+
+
+Load Balancer --> (App1, App2, App2) --> NoSql
+
+NoSQL Storage:
+
+N NoSql machines
+
+Users -> 100M
+Base Game Data (Dictionary of words) -> 600k words
+Game Sessions -> 10000M 
+
+GAME {
+Problem Id - (increasing number)
+State
+meta_data = {}
+}
+
+Client
+-->
+     Load Balacner
+   --> App location servers
+   
+   ---> Load Balancer
+Configuration Node
+   
+   ----> No SQl Servers
+
+
+   Configuration Node:
+        10000000-100000000 NoSqlHost1
+        20000-200000
+        
+        NoSqlHost 1: (range )
+        Nosqlhost 2:
+
+N NoSql servers
+in-memory cache
+persistent disk storage
+
+
+                
+
+
+
+
+
+
+
