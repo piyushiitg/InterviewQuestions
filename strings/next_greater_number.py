@@ -10,12 +10,14 @@ def next_greater_number(num):
         j = j - 1
         i = i - 1
 
+    print "-----------", nums[i], nums[j]
     rest = nums[j:] 
     map(int, rest) 
     rest.sort()
     print ""
     print "----", rest, num[i]     
     for m, k in enumerate(rest):
+        
         if rest[m] > nums[i]:
            rest[m], nums[i] = nums[i], rest[m]
            break
@@ -25,6 +27,6 @@ def next_greater_number(num):
     return "".join(new_number)
    
 
-num = 4234567
+num = 4234987
 print "input ", num
 print "output", next_greater_number(num)

@@ -11,10 +11,11 @@ def max_path_sum(root):
     l = max_path_sum(root.left)
     r = max_path_sum(root.right)
     max_single = max(max(l, r) + root.key, root.key)
-
+    print "Max Single", max_single
     max_top = max(max_single, l+r+root.key)
-    
+    print "max_top", max_top
     max_sum = max(max_top, max_sum)
+    print "max_sum", max_sum
     return max_single    
 
 

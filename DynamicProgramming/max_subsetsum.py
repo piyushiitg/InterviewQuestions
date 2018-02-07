@@ -22,10 +22,10 @@ def is_subsetsum(sum_set, n, total):
     return False
 
 
-def subset_sum(sum_set, n total):
+#def subset_sum(sum_set, n total):
          
 sum_set = [3, 34, 5, 4, 1, 11, 12]
-total = 11
+total = 8
 
 n = len(sum_set) 
 s = [0]*(n+1)
