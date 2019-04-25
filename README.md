@@ -1,6 +1,9 @@
 # InterviewQuestions
 Design Questions, Algorithm and Data Structure Questions
 
+https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
+
+https://www.educative.io/mycourses
 
 Practics Sites
 
