@@ -31,6 +31,11 @@ https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw
 Compatative Programming(Good start point): https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 
 
+#One on One Session
+
+https://codekardio.zohobookings.in/#/customer/codekardio1/invoice/LfL4Bu1JCLYqWrybFG0TZeiwBKT5yyhO2AN4y2hC9kiyb47cj1vO%2BXTDvMfEVo0E
+
+
 # Some Guidence to Prepare 
 https://m.youtube.com/watch?v=8fNNujOuEqo
 
