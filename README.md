@@ -29,7 +29,11 @@ https://www.youtube.com/user/tusharroy2525
 https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw
 
 System design
+
 https://youtu.be/jzPSuBiidF4
+
+https://github.com/donnemartin/system-design-primer
+
 
 
 Compatative Programming(Good start point): https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
