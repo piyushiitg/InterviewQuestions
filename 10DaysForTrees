@@ -1,0 +1,72 @@
+10 Days for Trees !
+
+📌 Day 1
+Read the theory of Binary Trees and different types of Binary Trees
+Understand the Node structure of Binary Tree
+
+📔 Understand and Write Iterative code for following
+📔 Level Order Traversal
+📔 Inorder Traversal - Leetcode 194
+📔 PreOrder Traversal
+📔 Postorder Traversal
+📔 Zig Zag Level Oder Traversal
+
+📌 Day 2
+Implement Binary Tree
+📔 Add Node
+📔 Remove Node
+📔 Traverse Node
+📔 Construct Binary Tree from Inorder and PostOrder - https://lnkd.in/g5QD5zeA
+
+📌 Day 3
+📔 Same Tree - https://lnkd.in/gcyPqTq3
+📔 Invert Binary Tree - https://lnkd.in/gYm_VVxU
+📔 Symmetric Binary Tree - https://lnkd.in/gHfDZGXP
+📔 Left/Bottom/Top View of Binary Tree
+📔 Vertical Order Traversal of a Binary Tree - https://lnkd.in/gXjFhx5g
+
+📌 Day 4
+📔 Maximum Width of Binary Tree - Leetcode 622
+📔 Maximum Depth of Binary Tree - Leetcode 104
+📔 Diameter of Binary Tree - Leetcode 543
+📔 Balanced Binary Tree - Leetcode 110
+📔 Lowest Common Ancestor of a Binary Tree - Leetcode 236
+
+📌 Day 5
+📔 Identify Path to given Node 
+📔 Binary Tree Maximum Path Sum - Leetcode 124
+📔 Flatten Binary Tree to Linked List - Leetcode 1114
+📔 Mirror Binary Tree
+📔 Serialize and Deserialize Binary Tree - Leetcode 297
+📔 Vertical Sum of Nodes in Binary Tree
+
+📌 Day 6
+📔 Understand Binary Search Tree
+📔 Search an Element in BST - Leetcode 700
+📔 Understand Complexity of searching in BST
+📔 Find Lowest Common Ancestor of given node in BST - Leetcode 235
+📔 Convert Sorted Array to Binary Search Tree - Leetcode 108
+📔 Validate Binary Search Tree - Leetcode 98
+
+📌 Day 7
+📔 Construct BST from Preorder Traversal - Leetcode 1008
+📔 Recover BST - Leetcode 99
+📔 Identify Predecessor and Successor of of a Node in BST
+📔 Kth Smallest Element in a BST
+📔 Two Sum - Input is BST - Leetcode 653
+
+📌 Day 8
+📔 Understand Self Balancing Binary Search Trees
+📔 Read and Understand Red Black Tree
+📔 Read and Understand AVL Tree
+
+📌 Day 9
+📔 Understand about Quad trees and N-Ary Trees
+📔 Understand Trie Data Structure 
+📔 Implement Trie (Prefix Tree)
+
+📌 Day 10
+📔 Maximum XOR of Two Numbers in an Array - https://lnkd.in/gnNYmZdh
+📔 Maximum XOR With an Element From Array - https://lnkd.in/gEw-PkqR
+
+#trees #programming #complexity #coding #dsa #algorithms #datastructuresandalgorithms #datastructures
