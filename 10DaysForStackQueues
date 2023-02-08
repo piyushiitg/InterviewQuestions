@@ -1,0 +1,57 @@
+0 Days for Stack and Queue!
+
+𝐒𝐓𝐀𝐂𝐊:
+
+📌 Day 1
+📔Understand the basics of Stack Data Structures
+📔Relate with some real-life examples like 
+📔Stack of Notebooks and Stack of coins
+
+📔Implement the Stack using Arrays (Push Pop etc functionalities )
+📔Implement the Stack with Linked List
+
+📌 Day 2
+📔Sort a Stack
+📔Valid Parenthesis: Leetcode 20
+📔Retrieve Minimum Element from the Stack Leetcode 155
+
+📌 Day 3 (Level Up)
+📔Next Greater Element using Stack Leetcode 496
+📔Find the largest rectangle in Histogram Leetcode 84
+
+
+𝐐𝐔𝐄𝐔𝐄:
+
+📌 𝐃𝐚𝐲 4
+📔 Understand the basics of Queue Data Structures
+📔 Relate with some real-life examples
+📔 Implement the Queue using Arrays
+📔 Implement the Queue using Linked List
+
+📌 𝐃𝐚𝐲 5
+📔 Implement Queue using Stack
+📔 Implement Stack using Queue
+📔 Implement and understand Double Ended Queue
+
+📌 𝐃𝐚𝐲 6
+📔 Understand and Implement Circular Queue
+📔 Fine examples where circular Queues can be used.
+📔 Implement Producer Consumer Problem
+
+📌 𝐃𝐚𝐲 7
+📔 Queue Reversal
+📔 Implement LRU Cache
+📔 Implement LFU Cache
+
+📌 𝐃𝐚𝐲 8
+📔 Learn Sliding window Coding Pattern
+📔 Sliding Window Maximum Leetcode 239
+📔 First negative integer in every window of size
+
+📌 𝐃𝐚𝐲 9
+📔 Trapping Rain Water (Stack-based) Leetcode 42
+📔 Simplify Directory Path (Stack Based) Leetcode 71
+(No Priority Queue for now)
+
+📌 𝐃𝐚𝐲 10
+📔 Revise both topics and do some random questions
