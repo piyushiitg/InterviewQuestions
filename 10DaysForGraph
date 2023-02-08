@@ -1,0 +1,55 @@
+10 Days for Graphs!
+
+📌 Day 1
+📔 Understand Graphs
+📔 Understand all three Graph representations and do hands-on
+- Edge list
+- Adjacency Matrix
+- Adjacency List
+
+📔 Read and Understand Different types of Graphs
+-- Directed Graphs
+-- Weighted Graphs etc
+
+📌 Day 2
+📔 Breadth-first search (BFS)
+📔 Depth-first search (DFS)
+
+📌 Day 3
+📔 Dijkstra - The shorter path from a given node to all vertices
+📔 Flyodd Warshall - The shorter path from every vertex to every other vertex
+
+📌 Day 4
+📔 Prims - Minimum spanning tree
+📔 Kruskal - Minimum spanning tree
+
+📌 Day 5
+📔 Topological sort
+📔 Articulation points in a graph
+📔 Bridges in a graph
+📔 Johnsons algorithm
+
+📌 Day 6
+📔 Clone Graph - Leetcode 133
+📔 Number of Islands -- Leetcode 200
+📔 Course Schedule -- Leetcode 207
+
+📌 Day 7
+📔 Valid path -- Leetcode 1391
+📔 Is Graph Bipartite? -- Leetcode 785
+📔 Smallest multiple with 0 & 1
+
+📌 Day 8
+📔 Commutable islands
+📔 Detect cycle in Directed and Undirected Graph
+📔 Black shapes
+
+📌 Day 9
+📔 Knight on the chessboard
+📔 Word ladder I
+📔 Word ladder II
+
+📌 Day 10
+📔 Smallest sequence with given primes
+📔 Capture regions on board
+📔 Word search board
