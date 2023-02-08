@@ -1,0 +1,60 @@
+10 Days for Recursion and Hash based DS!
+
+𝐑𝐞𝐜𝐮𝐫𝐬𝐢𝐨𝐧
+
+📌 𝐃𝐚𝐲 1
+📗Understand Recursion and its base conditions etc.
+📗Understand in depth not only what recursion is but also what kind of Data str it uses internally etc.
+You will get to know how stackoverflow error occurs
+
+📌 𝐃𝐚𝐲 2
+📗Fibonacci Number
+📗Reverse the Linked List using Recursive approach
+📗Reverse linkedList in k-groups
+
+📌 𝐃𝐚𝐲 3
+📗Subset Sums
+📗Subsets II
+
+📌 𝐃𝐚𝐲 4 (Level up questions)
+📗Combination Sum
+📗Combination Sum II
+📗Palindrome Partitioning
+📗Permutation Sequence
+
+📌Day 5
+Revision
+
+Hashing and Hash Based Data Structures
+
+Day 6
+Understand what exactly Hash based Data structures are.
+What is hashing?
+What is hash code?
+What is Hash Function?
+Understand concept of ROLLING HASH
+
+Understand the usage and application of Hash Tables like
+Used to implement database indexes.
+Used to implement associative arrays.
+Used to implement the different data structures like hashMap/HashSet etc
+
+Day 7
+Understand the internals of HashMap and HashSet
+Read the code of the already implemented hashMap/HashSet library if the code is available like in Java.
+Do a bit of hands-on, iterate the hashMap/set, etc
+
+Day 8
+Design HashSet -- Leetcode 705
+Design HashMap -- Leetcode 706
+Two Sum -- Leetcode 1
+Running Sum of 1D Array Leetcode 1480
+
+Day 9 (Level Up)
+Check If a String Contains All Binary Codes of Size K -- Leetcode 1461
+K Divisible Elements Subarrays -- Leetcode 2261
+Number of Distinct Islands -- Leetcode 711
+
+📌Day 10
+Revision
+
