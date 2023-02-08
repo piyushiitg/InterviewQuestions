@@ -1,0 +1,53 @@
+10 Days for 𝐀𝐫𝐫𝐚𝐲𝐬 !
+
+📌 Day 1
+📔Understand Big O notation (Time and Space complexity)
+
+📌 Day 2
+📔Study Basic Concepts of Array and get familiar with List DS in the programming language you chose.
+
+📔 Reverse the array in place (space complexity should be constant)
+Input —>> 3,5,9,4,2
+Output —>> 2,4,9,5,3
+📔 Insert an element in between of array
+
+📌 Day 3 and Day4
+📔 Understand Quick Sort, Merge Sort, Insertion Sort and Selection Sort
+📔 Implement them all in your fav programming language
+
+📌 Day 5
+📔 Understand Binary Search Algorithm
+📔 Search an element in Sorted Array
+📔 Leetcode Question 33 —> https://lnkd.in/dcXDGjJb
+📔 Leetcode Question 50 —> https://lnkd.in/d8XnAp22
+
+📌 Day 6
+📔Understand 2D matrix/ @D Arrays
+📔Search a 2D Matrix Leetcode 74 --> https://lnkd.in/db7cGdez
+📔 Set Matrix to Zero —> Leetcode 73 —> https://lnkd.in/dV3gUPEf
+📔 Pascals Triangle —> Leetcode 118 —> https://lnkd.in/dCrmGNby
+📔 Rotate Matrix —> leetcode 48 —> https://lnkd.in/d7wkU8UV
+
+📌 Day 7
+📔 Kadane’s Algo —> Maximum Subbarray Leetcode 73 —> https://lnkd.in/dJ2X9gzw
+📔 Sort Array of 0’s 1’s and 2’s Leetcode 75. —> https://lnkd.in/dNWw6Bp8
+📔 Two Sum Problem —> Leetcode 1 —> https://lnkd.in/dqsSyqBB
+📔 Find Duplicate —> https://lnkd.in/dMdz7KXq
+
+📌 Day 8 —> Level Up
+📔Stock Buy and Sell —> Leetcode 121 —> https://lnkd.in/dGv_8HUE
+📔 Next Permutation —> Leetcode 32 —> https://lnkd.in/dNfymKti
+📔 Merge Intervals — > Leetcode —> https://lnkd.in/dxbbt7wF
+📔Merge Sorted Arrays —> https://lnkd.in/dNzpA3eU
+
+📌 Day 9 —> Level up
+📔Reverse pairs —> https://lnkd.in/d7erN9PU
+📔 Grid Unique Paths —> https://lnkd.in/dUS3mxaS
+📔 3 Sum problem --> https://lnkd.in/djjGS4ep
+📔 4 Sum Problem —> https://lnkd.in/dtKJ-a5K
+
+📌 Day 10
+📔Repeat Missing Number Array —> https://lnkd.in/d4C26Bn8
+📔 Longest Consecutive Subsequence —> https://lnkd.in/d-PBiptg
+📔 Subarray with given Xor —>https://lnkd.in/dzCVTG_x
+📔 Longest Substring without repeat —> https://lnkd.in/dtMzQbaf
